@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function () {
     recipes: [
       {
         title: "சர்க்கரை பொங்கல் ",
-        ingredients: "தேவையான பொருள்கள் "
+        ingredients:
 `பச்சரிசி - 200கிராம் (1கப்)
 சி.பருப்பு - 100கிராம் (½ கப்)
 பாகு வெல்லம் காய்ச்சியது - 400கிராம் (2கப்)
